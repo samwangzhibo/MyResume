@@ -1,4 +1,63 @@
 #MyResume
+English Resume
+#ZhiboWang Jobs
+*  245353898@qq.com 
+*  (+86) 18328435208
+
+##SUMMARY OF SKILLS
+* Languages: 
+	*  be skillful at C/C++, Java , The data structure 
+* Web develop:
+	*  Jsp, Struts2,Spring,Hibernate,Servlet 
+* Mobile develop:
+	*  UI design,Canvas view, know os(Process thread) well, make the LruCache by self ，IP/TCP.Http,and Asynchronous communication network design  
+* Hardware:
+	*  The Arduino microcontroller programming, serial port and pin data collection 
+* Algorithm:
+	*  Huffman encode/decode,K-means Clustering,ALS, Bayesian Classification
+
+##EDUCATION 
+* Computer Science and Technology (Sept. 2012 -Present) 
+	*  (UESTC) University of Electronic Science and Technology of China 
+	*  Relevant Courses: Computer Science & Systems Programming 
+ 
+##SOFTWARE AND WEB DEVELOPMENT WORK EXPERIENCE 
+
+* Software Developer/Leader "House Fun"Cloud Platform Summer 2014 
+	*  Created An App about Home_Security based on the Web and mobile Internet 
+	*  Support hardware module and Moble/Web System framework design 
+	*  The contribution of the 60% code 
+
+* Web Developer Baby health System Based on the SVM  Summer 2013 
+	*  Provide hardware module support including Baby Data collction 
+	*  Responsible for database design , business logic and Push Notification module 
+	*  The contribution of the 40% web background code 
+
+##OTHER PERSINAL EXPERIENCE 
+
+* Curriculum design The file encoding/decoding Project based on Haffman (Aug. 2013 -Sept .2013) 
+	*  By word frequency statistics, producing the Huffman tree and dictionary 
+	*  Through frequency statistics generated dictionary, encoding and decoding 
+
+* YouPhotoIKnow   Personal Interest (May. 2014 -June. 2014) 
+	*  A book information scanning app 
+	*  Start the ISBN scanner and get data from DouBan then you can know information in the phone 
+
+
+##EXTRA-CURRICULAR ACTIVITIES 
+* Campus ambassador Tencent Club   (Sept. 2013 -Present) 
+	*  Participate in the organization of Tencent Youth Internet Meeting and the competition of Mobile game design 
+
+* Members Community association propaganda department   (Sept.2012 -June.2013) 
+	*  Make a poster and Editing Video 
+
+##AWARDS & INTERESTS 
+* The scholarship of UESTC    Sept. 2013 
+	*  The star of the federation of community     June.2013 
+* "Challenge cup" national college students' entrepreneurship competition second prize 
+	*  follow github other developer，watch Treding program，use and research Open source library
+
+---------------------------------------------------华丽分割线-------------------------------------------------------------------------------------  
 个人简历
 
 ##个人资料
