@@ -1,4 +1,6 @@
 #MyResume
+下面有中文简历，o(∩_∩)o 
+
 English Resume
 #ZhiboWang Jobs
 *  245353898@qq.com 
