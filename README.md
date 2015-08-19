@@ -138,5 +138,8 @@ http://blog.csdn.net/u012235132/
 * 2013年   人民三等奖学金
 
 ##更多  
-* 热爱互联网: 每日日常V2EX等BBS，Github Trending，使用并欣赏开源库源码如（Slidemenu， SwipeLayout）  
-* 爱专研：研究过LRU算法，并用LinkedHashMap实现LruCache
+* 热爱互联网: 
+	*  关注Google IO和Apple发布会，狩猎各领域互联网的技术，每日日常V2EX等BBS，Github Trending，热爱写和看别人blog。
+* 爱专研：
+	*  使用并欣赏开源库源码如（Volly， RecycleView,DrawerLayout),研究过LRU算法，并用LinkedHashMap实现LruCache
+* 英文简历传送门：https://github.com/samwangzhibo/MyResume
