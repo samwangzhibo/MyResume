@@ -81,11 +81,11 @@ http://blog.csdn.net/u012235132/
 	电子科技大学  计算机科学与技术 （2016毕业生）
 ##IT技能
 * Language：  	
-	*  。精通java基础知识及部分高级知识比如反射、代理、泛型、Concurrent等，具备良好的ＯＯＰ编程思想，并且熟悉常用的设计模式，JVM(gc),容器	 	  
-	*  。精通C/C++，热爱ACM,有linux下vim编程经历。  
+	*  。熟练掌握java基础知识及部分高级知识比如反射、代理、泛型、Concurrent等，具备良好的ＯＯＰ编程思想，并且熟悉常用的设计模式，JVM(gc),容器	 	  
+	*  。熟练掌握C/C++，热爱ACM,有linux下vim编程经历。  
 * Android：    
      *  。熟练android UI Design和Activity与Service等通信以及线程，进程通信，json解析和SQlite，Http,TCP/IP协议，异步网络通信  
-     *  。研究过Handler,Looper等源码和Git的开源库,图片边界压缩,AsyncImageLoader（Lru,ThreadPool)和ListView性能优化，自己实践三级缓存和LruCache  
+     *  。熟悉Handler,Looper等源码和Git的开源库,图片边界压缩,AsyncImageLoader（Lru,ThreadPool)和ListView性能优化，自己实践三级缓存和LruCache  
 * Web Develop：  
      *  。熟悉Java Web技术，包括JSP、Servlet等，有过Struts2、Hibernate、Spring	框架编程经历，熟练使用MySql数据库，jdbc，线程池等  
 * Hardware Develop：  
